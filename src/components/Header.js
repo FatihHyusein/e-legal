@@ -23,7 +23,12 @@ const Header = () => {
                         </button>
                         <button className='rd-navbar-collapse-toggle' data-rd-navbar-toggle='.rd-navbar-panel-aside'>
                             <span/></button>
-                        <div className='rd-navbar-brand'><Link className='brand-name' to='/'>LEGALWISE</Link></div>
+                        <div className='rd-navbar-brand'>
+                            <Link className='brand-name' to='/' style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                                <img src='/images/e-legal-images/LW_LOGO_INVERSE.svg' alt='' width='40' height='40'/>
+                                LEGALWISE
+                            </Link>
+                        </div>
                         <div className='rd-navbar-call'>
                             <span className='icon icon-sm icon-rounded material-design-write20 icon-primary'/>
                             <a href='mailto:#' style={{ marginRight: 10 }}>info@demolink.org</a></div>

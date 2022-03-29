@@ -18,7 +18,8 @@ const HomeIndex = ({
                     <div className='swiper2-container swiper-slider swiper-slider-1' data-height='39.0625%'
                          data-min-height='350px' data-simulate-touch='false' data-slide-effect='fade'>
                         <div className='swiper-wrapper text-center'>
-                            <div className='swiper-slide' style={{ backgroundImage: `url('/images/e-legal-images/LW_HOME.jpg')` }}>
+                            <div className='swiper-slide'
+                                 style={{ backgroundImage: `url('/images/e-legal-images/LW_HOME.jpg')` }}>
                                 <div className='swiper-slide-caption section-50 section-md-70 section-xl-140'>
                                     <div className='container'>
                                         <div className='row justify-content-sm-center'>
@@ -45,7 +46,6 @@ const HomeIndex = ({
                             </div>
                         </div>
                     </div>
-                    s
                 </section>
                 <section className='section-50 section-sm-65 section-md-85 section-lg-115'>
                     <div className='container text-center'>
