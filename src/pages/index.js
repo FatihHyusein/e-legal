@@ -110,6 +110,7 @@ const HomeIndex = ({
                                     communication.</p>
                                 <h6>I would like to discuss</h6>
                                 <form className='rd-mailform text-center' data-form-output='form-output-global'
+                                      action='https://getform.io/f/ed801f47-8725-4222-a7d0-44c36602c1bc'
                                       data-form-type='contact' method='post'>
                                     <div className='form-wrap'>
                                         <label className='form-label' htmlFor='contact-subject'>Your subject</label>
