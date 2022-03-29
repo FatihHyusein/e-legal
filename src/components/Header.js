@@ -48,7 +48,7 @@ const Header = () => {
                 <div className='rd-navbar-inner rd-navbar-inner-bottom'>
                     <Link className='brand-name' to='/'
                           style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                        <img src='/images/e-legal-images/LW_logo.svg' alt='' width='75' height='75'/>
+                        <img src='/images/e-legal-images/LW_LOGO.svg' alt='' width='75' height='75'/>
                         <div style={{ color: 'black', fontSize: '48px' }}>LEGALWISE</div>
                     </Link>
                     <div className='rd-navbar-nav-wrap'>
