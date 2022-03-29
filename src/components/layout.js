@@ -27,9 +27,9 @@ const Template = ({ children }) => {
 
     return <div className='page text-center text-md-left'>
         <Helmet>
-            <title>E-Legal</title>
+            <title>LEGALWISE</title>
             <script src={'/js/core.min.js'}/>
-            <link rel='icon' href='/images/favicon.ico' type='image/x-icon'/>
+            <link rel='icon' href='/images/e-legal-images/LW_LOGO.svg' type='image/x-icon'/>
             <link rel='stylesheet' href={'/css/fonts.css'}/>
             <meta name='format-detection' content='telephone=no'/>
             <meta name='viewport'

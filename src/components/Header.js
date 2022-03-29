@@ -23,7 +23,7 @@ const Header = () => {
                         </button>
                         <button className='rd-navbar-collapse-toggle' data-rd-navbar-toggle='.rd-navbar-panel-aside'>
                             <span/></button>
-                        <div className='rd-navbar-brand'><Link className='brand-name' to='/'>Advoza</Link></div>
+                        <div className='rd-navbar-brand'><Link className='brand-name' to='/'>LEGALWISE</Link></div>
                         <div className='rd-navbar-call'>
                             <span className='icon icon-sm icon-rounded material-design-write20 icon-primary'/>
                             <a href='mailto:#' style={{ marginRight: 10 }}>info@demolink.org</a></div>
@@ -45,8 +45,12 @@ const Header = () => {
                         <a href='mailto:#'>info@demolink.org</a>
                     </div>
                 </div>
-                <div className='rd-navbar-inner rd-navbar-inner-bottom'><Link className='brand-name' to='/'><img
-                    src='/images/logo-default-398x97.png' alt='' width='199' height='48'/></Link>
+                <div className='rd-navbar-inner rd-navbar-inner-bottom'>
+                    <Link className='brand-name' to='/'
+                          style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                        <img src='/images/e-legal-images/LW_logo.svg' alt='' width='75' height='75'/>
+                        <div style={{ color: 'black', fontSize: '48px' }}>LEGALWISE</div>
+                    </Link>
                     <div className='rd-navbar-nav-wrap'>
                         <ul className='navbar-navigation rd-navbar-nav'>
                             <li className={`navbar-navigation-root-item ${isLocationActive('/')}`}>

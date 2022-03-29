@@ -22,7 +22,7 @@ const HomeIndex = ({
     return (
         <Layout>
             <main className='page-content'>
-                <section><img className='img-responsive' src='/images/practice-areas-01-1920x750.jpg' alt=''
+                <section><img className='img-responsive' src='/images/e-legal-images/LW_SERVICES.jpg' alt=''
                               style={{ width: '100%' }}/></section>
                 <section className='section-50 section-sm-65 section-md-85 section-lg-95 section-xl-115 bg-transparent'>
                     <div className='container text-center'>

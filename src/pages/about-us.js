@@ -7,7 +7,7 @@ const HomeIndex = () => {
         <Layout>
             <main className='page-content'>
                 <section>
-                    <img className='img-responsive' src='/images/about-01-1920x750.jpg' alt=''
+                    <img className='img-responsive' src='/images/e-legal-images/LW_ABOUT.jpg' alt=''
                          style={{ width: '100%' }}/>
                 </section>
                 <section className='section-50 section-sm-70 section-md-80 section-lg-115 bg-transparent'>
