@@ -22,21 +22,23 @@ const HomeIndex = ({
                                 <div className='swiper-slide-caption section-50 section-md-70 section-xl-140'>
                                     <div className='container'>
                                         <div className='row justify-content-sm-center'>
-                                            <div className='col-xxl-7 col-lg-11 col-xl-9'>
-                                                <h1 data-caption-animate='fadeInDown'
-                                                    data-caption-delay='300'>An <span className='font-weight-bold'>Affordable Legal</span> Help
-                                                </h1>
-                                                <p data-caption-animate='fadeInDown' data-caption-delay='450'>We're
-                                                    proud that our law firm offers top-notch legal services for a
-                                                    nationwide affordable pricing! With us you'll never feel like
-                                                    the lawyers are just robbers in suits, besides, we win 98% of
-                                                    all cases. So with us, your chances of winning are as high as
-                                                    they possibly can be!</p><Link className='btn btn-primary'
-                                                                                   to='/about-us'
-                                                                                   data-caption-animate='fadeInDown'
-                                                                                   data-caption-delay='650'>Read
-                                                more</Link>
-                                            </div>
+                                            {/*<div className='col-xxl-7 col-lg-11 col-xl-9'>*/}
+                                            {/*    <h1 data-caption-animate='fadeInDown'*/}
+                                            {/*        style={{color:'black'}}*/}
+                                            {/*        data-caption-delay='300'>An <span className='font-weight-bold'*/}
+                                            {/*                                           >Affordable Legal</span> Help*/}
+                                            {/*    </h1>*/}
+                                            {/*    <p data-caption-animate='fadeInDown' data-caption-delay='450' style={{color:'rgba(0,0,0,1.5)'}}>We're*/}
+                                            {/*        proud that our law firm offers top-notch legal services for a*/}
+                                            {/*        nationwide affordable pricing! With us you'll never feel like*/}
+                                            {/*        the lawyers are just robbers in suits, besides, we win 98% of*/}
+                                            {/*        all cases. So with us, your chances of winning are as high as*/}
+                                            {/*        they possibly can be!</p><Link className='btn btn-primary'*/}
+                                            {/*                                       to='/about-us'*/}
+                                            {/*                                       data-caption-animate='fadeInDown'*/}
+                                            {/*                                       data-caption-delay='650'>Read*/}
+                                            {/*    more</Link>*/}
+                                            {/*</div>*/}
                                         </div>
                                     </div>
                                 </div>
