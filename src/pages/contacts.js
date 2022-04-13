@@ -26,7 +26,7 @@ const HomeIndex = () => {
                         <h2>Contact us</h2>
                         <form
                             className='rd-mailform text-center rd-mailform-small offset-top-30 offset-md-top-40 offset-lg-top-60'
-                            action='https://getform.io/f/2d370fd2-bc2a-4306-9cf3-46c2eab19e7f'
+                            action='https://formspree.io/f/xyyonjoa'
                             data-form-output='form-output-global' data-form-type='contact' method='post'
                         >
                             <div className='form-wrap'>
