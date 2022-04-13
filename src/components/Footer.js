@@ -31,7 +31,7 @@ const Footer = () => (
                     <h5>Contact information</h5>
                     <address>
                         <p>4096 N Highland St, Arlington<br/>VA 32101, USA</p>
-                        <a href='mailto:#'>info@demolink.org</a>
+                        <a href='mailto:#'>office@legalwise.bg</a>
                         <ul className='list-inline list-inline-lg'>
                             <li><a className='icon icon-white icon-xs fa-facebook' href='https://facebook.com'
                                    aria-label={'facebook'}/></li>
