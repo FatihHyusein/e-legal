@@ -31,7 +31,7 @@ const Header = () => {
                         </div>
                         <div className='rd-navbar-call'>
                             <span className='icon icon-sm icon-rounded material-design-write20 icon-primary'/>
-                            <a href='mailto:#' style={{ marginRight: 10 }}>office@legalwise.bg</a></div>
+                            <a href='mailto:office@legalwise.bg' style={{ marginRight: 10 }}>office@legalwise.bg</a></div>
                         <div className='rd-navbar-call'>
                             <span className='icon icon-sm icon-rounded material-icons-local_phone icon-primary'/><a
                             href='tel:#'>800-2345-6789</a>
@@ -47,7 +47,7 @@ const Header = () => {
                         </ul>
                         <a href='tel:#'>800-2345-6789</a>
                         <Link className='fixed-link' to='contacts'>Заяви консултация</Link>
-                        <a href='mailto:#'>office@legalwise.bg</a>
+                        <a href='mailto:office@legalwise.bg'>office@legalwise.bg</a>
                     </div>
                 </div>
                 <div className='rd-navbar-inner rd-navbar-inner-bottom'>
